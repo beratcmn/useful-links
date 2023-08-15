@@ -6,8 +6,6 @@ Useful repos and links I find over time.
 
 - [AMD GPUs for LLM inference](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
 
----
-
 - [The AI Index](https://www.aiindex.org/)
 
   - The AI Index is an effort to track, collate, distill and visualize data relating to artificial intelligence. It aspires to be a comprehensive resource of data and analysis for policymakers, researchers, executives, journalists and the general public to develop intuitions about the complex field of AI.
@@ -16,11 +14,7 @@ Useful repos and links I find over time.
 
 - [The Little Book of Deep Learning by François Fleuret](https://fleuret.org/public/lbdl.pdf)
 
----
-
 - [Information Theory, Inference, and Learning Algorithms by David MacKay](https://inference.org.uk/itila/book.html)
-
----
 
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
 
@@ -29,8 +23,6 @@ Useful repos and links I find over time.
 - [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&ab_channel=3Blue1Brown)
 
   - A playlist of videos from the Neural Networks: Zero to Hero course by Andrej Karpathy on YouTube.
-
----
 
 - [Machine Learning by Andrew Ng](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&ab_channel=StanfordOnline)
 
@@ -42,13 +34,9 @@ Useful repos and links I find over time.
 
   - A repository to index and organize the best Machine Learning courses available on YouTube.
 
----
-
 - [awesome-mlops by visenger](https://github.com/visenger/awesome-mlops)
 
   - An awesome list of references for MLOps - Machine Learning Operations 👉 ml-ops.org
-
----
 
 - [outlines by normal-computing](https://github.com/normal-computing/outlines)
 
