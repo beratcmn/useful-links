@@ -18,7 +18,9 @@ Useful repos and links I find over time.
 
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
 
-## Learning Resources (Unsorted)
+## Learning Resources
+
+### Machine Learning
 
 - [Deep Learning Fundamentals by LightningAI](https://lightning.ai/courses/deep-learning-fundamentals/) _Certificated_
 
@@ -35,6 +37,24 @@ Useful repos and links I find over time.
 - [Deep Learning by MIT](https://deeplearning.mit.edu/) _Certificated_
 
   - A course on Deep Learning by MIT.
+
+### Computer Science
+
+- [Open Source Society University](https://github.com/ossu/computer-science)
+
+  - Path to a free self-taught education in Computer Science!
+
+- [CS50's Introduction to Computer Science by Harvard](https://cs50.harvard.edu/x/2021/)
+
+  - A course on Computer Science by Harvard.
+
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
+  - freeCodeCamp.org is a friendly community where you can learn to code for free.
+
+- [Developer Roadmap by kamranahmedse](https://github.com/kamranahmedse/developer-roadmap)
+
+  - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Playlists (Unsorted)
 
