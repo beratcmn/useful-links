@@ -18,6 +18,24 @@ Useful repos and links I find over time.
 
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
 
+## Learning Resources (Unsorted)
+
+- [Deep Learning Fundamentals by LightningAI](https://lightning.ai/courses/deep-learning-fundamentals/) _Certificated_
+
+  - A free course on Deep Learning Fundamentals by LightningAI.
+
+- [Deep Learning by FastAI](https://course.fast.ai/) _Certificated_
+
+  - A free course on Deep Learning by FastAI.
+
+- [Deep Learning by Stanford](https://www.deeplearning.ai/deep-learning-specialization/) _Certificated_
+
+  - A course on Deep Learning by Stanford on Coursera.
+
+- [Deep Learning by MIT](https://deeplearning.mit.edu/) _Certificated_
+
+  - A course on Deep Learning by MIT.
+
 ## Playlists (Unsorted)
 
 - [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&ab_channel=3Blue1Brown)
