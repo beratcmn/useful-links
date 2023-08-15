@@ -18,6 +18,15 @@ Useful repos and links I find over time.
 
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
 
+## Resources (Unsorted)
+
+- [Machine Learnig Glosary Fundamentals by Google](https://developers.google.com/machine-learning/glossary/fundamentals)
+
+  - A glossary of Machine Learning Fundamental terms by Google.
+
+- [Machine Learning Glossary by Google](https://developers.google.com/machine-learning/glossary)
+  - A glossary of Machine Learning terms by Google.
+
 ## Learning Resources
 
 ### Machine Learning
@@ -37,6 +46,10 @@ Useful repos and links I find over time.
 - [Deep Learning by MIT](https://deeplearning.mit.edu/) _Certificated_
 
   - A course on Deep Learning by MIT.
+
+- [Google Machine Learning Guides](https://developers.google.com/machine-learning/guides)
+
+  - A collection of Machine Learning guides by Google.
 
 ### Computer Science
 
