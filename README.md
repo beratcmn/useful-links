@@ -12,11 +12,30 @@ Useful repos and links I find over time.
 
 ## Books (Unsorted)
 
-- [The Little Book of Deep Learning by François Fleuret](https://fleuret.org/public/lbdl.pdf)
+- [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
 
-- [Information Theory, Inference, and Learning Algorithms by David MacKay](https://inference.org.uk/itila/book.html)
+  - François Fleuret
 
-- [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
+- [Information Theory, Inference, and Learning Algorithms](https://inference.org.uk/itila/book.html)
+
+  - David MacKay
+
+- [Deep Learning](https://www.deeplearningbook.org/)
+  - Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+
+## Papers (Unsorted)
+
+- [The case for 4-bit precision: k-bit Inference Scaling Laws](https://arxiv.org/abs/2212.09720)
+
+  - Tim Dettmers, Luke Zettlemoyer
+
+- [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
+
+  - Andy Zou, Zifan Wang, J. Zico Kolter, Matt Fredrikson
+
+- [Flexible Grammar-Based Constrained Decoding for Language Models](https://arxiv.org/abs/2305.13971)
+
+  - Saibo Geng, Martin Josifosky, Maxime Peyrard, Robert West
 
 ## Resources (Unsorted)
 
