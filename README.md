@@ -10,6 +10,9 @@ Useful repos and links I find over time.
 
   - The AI Index is an effort to track, collate, distill and visualize data relating to artificial intelligence. It aspires to be a comprehensive resource of data and analysis for policymakers, researchers, executives, journalists and the general public to develop intuitions about the complex field of AI.
 
+- [Spline](https://spline.design)
+  - Spline is a 3D design tool for creating animated scenes directly in the browser. It is currently in beta and free to use.
+
 ## Books (Unsorted)
 
 - [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
